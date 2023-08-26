@@ -13,8 +13,8 @@ ArchOps is a Bash script for managing and optimizing Arch Linux systems. It prov
 - Change DNS Servers
 - Update system packages
 - Security Hardening
-- Check for Updates
-- Exit
+- Check for Updates in the Background
+- User Management
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ ArchOps is a Bash script for managing and optimizing Arch Linux systems. It prov
 2. Navigate to the cloned directory:
    ```bash
    cd ArchOps
-3. Make the script executable:
+3. Run the installer:
    ```bash
    sudo ./install_archops.sh
 4. Run the script:
