@@ -27,10 +27,10 @@ ArchOps is a Bash script for managing and optimizing Arch Linux systems. It prov
    cd ArchOps
 3. Make the script executable:
    ```bash
-   chmod +x archops.sh
+   sudo ./install_archops.sh
 4. Run the script:
    ```bash
-   ./archops.sh
+   sudo ./archops.sh
 5. Select the desired features from the menu and follow the prompts.
 
 # Contributing
