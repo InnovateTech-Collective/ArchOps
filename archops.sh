@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCRIPT_VERSION=$(curl -s "https://raw.githubusercontent.com/Chan5k/ArchOps/main/version.txt") # Script version
+SCRIPT_VERSION=$(curl -s "https://raw.githubusercontent.com/Chan5k/ArchOps/main/version.txt")
 
 # ANSI color codes
 GREEN='\033[0;32m'
